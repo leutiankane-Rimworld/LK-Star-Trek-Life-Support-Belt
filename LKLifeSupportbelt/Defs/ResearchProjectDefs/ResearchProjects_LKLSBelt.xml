@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+ <ResearchProjectDef>
+    <defName>LKTosBeltRTech</defName>
+    <label>Life Support Belt research</label>
+    <tab>LK_TosBelt</tab>
+    <description>Unlocks Life Support belt.</description>
+    <baseCost>4000</baseCost>
+    <techLevel>Ultra</techLevel>
+    <prerequisites>
+      <li>BasicGravtech</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>0.00</researchViewY>
+    <generalRules>
+      <rulesStrings>
+        <li>subject->Research into StarFleet Life Support Belts</li>
+
+        <li>subject_story->traded life support belts to desperate rimworlders</li>
+        <li>subject_story->learned the secrets of fabricating life support belts and died without revealing them</li>
+        <li>subject_story->balked at the extreme cost of crafting life support belts and chose a simpler lifestyle</li>
+
+        <li>subject_gerund->fabricating life support belts</li>
+      </rulesStrings>
+    </generalRules>
+  </ResearchProjectDef>
+
+  
+
+</Defs>

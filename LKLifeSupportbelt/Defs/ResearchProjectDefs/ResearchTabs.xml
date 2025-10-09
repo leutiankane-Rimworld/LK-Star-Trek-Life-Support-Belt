@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
+  
+  <ResearchTabDef>
+    <defName>LK_TosBelt</defName>
+    <label>LK Life Support</label>
+    <generalTitle>LK Life Support</generalTitle>
+    <generalDescription>Unlocks Life Support Belt for crafting.</generalDescription>
+  </ResearchTabDef>
+
+</Defs>
