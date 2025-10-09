@@ -1,6 +1,0 @@
-# Changelog for LK Star Trek Life Support Belt
-# Author is LeutianKane
-
-1.8.1.0---Initial release, requires Odyssey and Vanilla Expanded Framework mod, compatible with SOS 2 space as well.
----Protects from Vacuum of space and hostile environments and has support for Save Our Ship 2 space as well. Offers a small bit of damage protection , can be used with melee or ranged weapons.
----Added Versioning to mod to use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2161604688]Auto Changenote[/url] mod.
