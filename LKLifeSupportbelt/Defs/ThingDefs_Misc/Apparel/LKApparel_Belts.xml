@@ -17,6 +17,8 @@
       <Flammability>0.0</Flammability>
       <Insulation_Cold>70</Insulation_Cold>
       <Insulation_Heat>12</Insulation_Heat>
+	  <StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.50</StuffEffectMultiplierInsulation_Heat>
       <EquipDelay>2</EquipDelay>
     </statBases>
     <equippedStatOffsets>
@@ -105,4 +107,5 @@
     <generateAllowChance>0.15</generateAllowChance>
   </ThingDef>
 	
+
 </Defs>
