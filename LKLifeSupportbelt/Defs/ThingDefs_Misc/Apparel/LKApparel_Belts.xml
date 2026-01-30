@@ -99,7 +99,11 @@
         </li>
       </options>
     </colorGenerator>
-    
+    <comps>
+    <li MayRequire="kentington.saveourship2">
+      <compClass>SaveOurShip2.CompEVA</compClass>
+    </li>
+    </comps>
     <allowedArchonexusCount>1</allowedArchonexusCount>
     <tradeTags>
       <li>Armor</li>
@@ -109,3 +113,4 @@
 	
 
 </Defs>
+
