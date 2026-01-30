@@ -1,7 +1,0 @@
-# Changelog for LK Star Trek Life Support Belt
-# Author is LeutianKane
-1.8.1.1 ---Added multipliers to cold and heat insulation based on material the belt is made from.
-1.8.1.0---Initial release, requires Odyssey , compatible with SOS 2 space as well.
----Protects from Vacuum of space and hostile environments. 
----Added Versioning to mod to use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2161604688]Auto Changenote[/url] mod.
-
